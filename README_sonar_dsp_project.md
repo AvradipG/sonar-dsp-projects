@@ -1,6 +1,6 @@
 # Sonar DSP Projects 🎧🌊
 
-This repository is a structured DSP learning portfolio focused on sonar signal processing — built to demonstrate deep understanding of the theory, practical implementation, and readiness for real-time embedded applications.
+This repository preserves earlier learning projects in signal processing. Avradip Ghosh's current professional focus is digital rock simulation and pore-scale fluid flow.
 
 It covers a full signal processing pipeline using synthetic sonar-like signals, and includes educational notebooks, reusable scripts, and real-time simulations.
 
@@ -53,7 +53,7 @@ Each module contains:
 
 ## ✅ Goals
 
-- Build a realistic, job-ready DSP portfolio
+- Preserve earlier signal-processing learning work
 - Demonstrate signal chain understanding from waveform to detection
 - Provide a launching point for real-time and sonar simulation development
 
@@ -61,7 +61,7 @@ Each module contains:
 
 ## 📬 Contact
 
-This project is developed by **Avradip Ghosh** as part of a personal transition into sonar DSP and simulation-based roles.  
+Earlier learning work by **Avradip Ghosh**, whose current focus is digital rock simulation and fluid flow through porous media.  
 📧 [LinkedIn Profile](https://www.linkedin.com/in/avradip-ghosh)
 
 ---
