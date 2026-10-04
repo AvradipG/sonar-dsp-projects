@@ -2,7 +2,7 @@
 
 Python simulations and notebooks exploring how waveforms, arrays and detection methods fit together in underwater acoustics.
 
-This is my public learning portfolio in signal processing. My background is physics and marine geophysics. I use these examples to connect mathematical definitions to numerical calculations, examine their assumptions and make the results visible.
+This repository retains earlier signal-processing learning projects. My current professional focus is digital rock simulation and pore-scale fluid flow. These earlier examples remain available as numerical learning work.
 
 ## A useful route through the repository
 
